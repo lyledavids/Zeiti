@@ -1,5 +1,5 @@
-//import SDK, { util } from "@zeitgeistpm/sdk";
-const SDK = require('@zeitgeistpm/sdk');
+import SDK, { util } from "@zeitgeistpm/sdk";
+//const SDK = require('@zeitgeistpm/sdk');
 async function main() {
   // Initialise the provider to connect to the local node
   // wss://bsr.zeitgeist.pm
