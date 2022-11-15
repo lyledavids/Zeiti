@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/lyledavids/Zeiti#readme",
   "dependencies": {
-    "@zeitgeistpm/sdk": "^2.3.0"
+    "@zeitgeistpm/sdk": "^0.9.0"
   }
 }
